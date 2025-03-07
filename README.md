@@ -7,8 +7,10 @@ Além da análise descritiva, o sistema contará com funcionalidades avançadas,
 
 * Alváro Felix da Silva
 * Ana Cecília Souza Lorens
+* Beatriz Azevedo dos Santos
 * Mariana Andrade
 * Sarah Mariana Guedes de Almeida
+  
 
 ## Professor
 
