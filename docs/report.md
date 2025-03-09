@@ -1,19 +1,22 @@
 # TITULO DO PROJETO
 
+INTEGRANTES:
 
-**Nome completo do Aluno 1, email do aluno 1**
+Antonio Augusto Vieira Lopes Filho, aavlfilho@sga.pucminas.br
 
-**Nome completo do Aluno 2, email do aluno 2**
+Diego Rodrigo Marinho Silva, diego.marinho@sga.pucminas.br
 
-**Nome completo do Aluno 3, email do aluno 3**
+Rodrigo Ossen Ali Rodrigues, roarodrigues@sga.pucminas.br
+
+Ryan Junio de Oliveira, ryan.junio@sga.pucminas.br
+
+Vinicius Bigonha Cancela Moraes de Melo Filho, vbcmmfilho@sga.pucminas.br  
 
 ---
 
-Professores:
+Professor:
 
-** Prof. Nome do Prof 1 **
-** Prof. Nome do Prof 2 **
-
+Prof. Hugo Bastos de Paula
 ---
 
 _Curso de Ciência de Dados, Unidade Praça da Liberdade_
@@ -22,15 +25,14 @@ _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Mi
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+**Resumo**. Este trabalho busca investigar a relação entre a qualidade da educação básica em diferentes estados brasileiros e as oportunidades profissionais no mercado de dados. Com base em dados da pesquisaState of Data BR 2023 e indicadores educacionais do INEP, o estudo analisará se profissionais formados em estados com melhores índices educacionais (como IDEB e investimento por aluno) alcançam cargos mais altos e apresentam faixas salariais superiores. A pesquisa pretende fornecer insights sobre como desigualdades educacionais podem impactar a trajetória profissional e a distribuição de talentos no setor de dados.
 
 ---
 
 
 ## Introdução
 
-A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho. 
+O mercado de dados no Brasil cresce exponencialmente, impulsionado pela transformação digital e a crescente adoção de tecnologias analíticas. No entanto, é notório que o acesso a esse mercado, especialmente para cargos de maior prestígio e remuneração, pode estar associado a fatores socioeconômicos e educacionais. A qualidade da educação básica, medida por indicadores como o IDEB, influencia diretamente as habilidades técnicas e socioemocionais adquiridas, afetando o desempenho acadêmico posterior e, consequentemente, as oportunidades de carreira. Diante desse cenário, este estudo busca investigar se profissionais de estados com melhores indicadores educacionais apresentam trajetórias de carreira mais bem-sucedidas em termos de cargo e salário. 
 
 ###    Contextualização
 
@@ -56,32 +58,20 @@ explicitamente se o aluno tiver autorização para tal.
 
 ###    Objetivo geral
 
-Nesta seção deve-se escrever um pequeno parágrafo ou frase com o **objetivo geral** 
-do trabalho. O objetivo deve ser bem direto, específico e definido com verbos de 
-ação (elaborar, propor, avaliar, comparar etc.). No caso deste projeto, o objetivo é
-"desenvolver um sistema inteligente para ...". O seu objetivo geral deve ser uma
-pergunta orientada a dados. Ou seja, ela deve incluir de forma geral os dados em que
-os modelos irão se basear para atingir o objetivo.
+Desenvolver um sistema inteligente para analisar se profissionais formados em estados brasileiros com melhores indicadores educacionais (IDEB, investimento por aluno, escolaridade média) alcançam cargos de maior senioridade e apresentam salários superiores no mercado de dados.
 
 ####    Objetivos específicos
 
-Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde 
-você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar 
-no seu trabalho.
-
+1. Analisar a Relação entre Educação e Sucesso Profissional: Identificar se há uma correlação significativa entre os indicadores educacionais dos estados e os salários ou cargos ocupados pelos profissionais.
+ 2. Comparar Dados de Diferentes Estados: Coletar e comparar dados de salários e cargos de profissionais formados em estados com diferentes níveis de indicadores educacionais.
+3. Identificar Fatores Contribuintes: Investigar outros fatores que podem influenciar o sucesso profissional, como rede de contatos, experiência prévia e setor de atuação.
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 
 ###    Justificativas
 
-Mostre também as **justificativas** para o  desenvolvimento do seu trabalho e, caso deseje, 
-destaque alguma contribuição do trabalho.
-
-A justific ativa deve descrever a importância ou a motivação para o desenvolvimento do 
-sistema inteligente escolhido. Indique as razões pelas quais você escolheu seus objetivos 
-específicos ou as razões para aprofundar em certos aspectos do software.
-
+A educação é um dos principais determinantes do sucesso profissional. Estados com melhores indicadores educacionais tendem a oferecer uma formação mais robusta, o que pode resultar em profissionais mais capacitados e preparados para o mercado de trabalho. Compreender essa relação pode ajudar a direcionar políticas públicas e investimentos em educação, além de auxiliar indivíduos em suas escolhas acadêmicas e profissionais. Além disso, essa análise pode revelar desigualdades regionais que precisam ser abordadas para promover uma sociedade mais equitativa.
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
@@ -89,14 +79,14 @@ específicos ou as razões para aprofundar em certos aspectos do software.
 
 ##    Público alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. 
-O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários 
-na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos 
-usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Estudantes e Recém-Formados: Para que possam tomar decisões informadas sobre onde estudar e quais áreas seguir.
+ 
+ Instituições de Ensino: Para que possam entender a importância de melhorar seus currículos e infraestrutura.
+ 
+ Empregadores e Recrutadores: Para que possam considerar a origem educacional dos candidatos em seus processos de seleção.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, 
-diagramas de personas e mapa de stakeholders.
+Políticos e Formuladores de Políticas Públicas: Para que possam desenvolver estratégias que melhorem a educação em estados com indicadores mais baixos.
+
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
