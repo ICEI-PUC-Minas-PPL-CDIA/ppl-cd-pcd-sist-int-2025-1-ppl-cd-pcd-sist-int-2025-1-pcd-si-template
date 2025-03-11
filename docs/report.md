@@ -1,4 +1,4 @@
-#Educação, Empregabilidade e Raça: O Que Os Dados Revelam.
+# Educação, Empregabilidade e Raça: O Que Os Dados Revelam.
 
 
 **Álvaro Felix da Silva, alvaro.silva@sga.pucminas.br**
@@ -47,15 +47,7 @@ A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenc
 
 ###    Problema
 
-Nesse momento você deve apresentar o problema que seu agente pretende resolver. 
-No entanto, não é a hora de comentar sobre a aplicação.
-Descreva também o contexto em que essa aplicação será usada, se  houver: 
-empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, 
-pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve 
-sucintamente apresentar o cenário de problema da empresa. A empresa só deve ser citada 
-explicitamente se o aluno tiver autorização para tal.
+O propósito do projeto é responder o seguinte problema orientado a dados: “Existem fatores na formação superior que impactam na inserção e progressão profissional de pessoas pretas, pardas, amarelas ou indígenas no mercado de trabalho tecnológico brasileiro?” 
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
