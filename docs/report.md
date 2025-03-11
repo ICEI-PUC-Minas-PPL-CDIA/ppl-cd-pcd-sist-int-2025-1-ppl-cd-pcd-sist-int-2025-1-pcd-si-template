@@ -1,18 +1,21 @@
-# TITULO DO PROJETO
+#Educação, Empregabilidade e Raça: O Que Os Dados Revelam.
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Álvaro Felix da Silva, alvaro.silva@sga.pucminas.br**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Ana Cecília Souza Lorens, acslorens@sga.pucminas.br**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Beatriz Azevedo dos Santos, beatriz.santos.1595043@sga.pucminas.br**
+
+**Mariana Andrade Silva, mariana.andrade.1566766@sga.pucminas.br**
+
+**Sarah Mariana Guedes de Almeida  sarah.almeida.1582677@sga.pucminas.br**
 
 ---
 
 Professores:
 
-** Prof. Nome do Prof 1 **
-** Prof. Nome do Prof 2 **
+**Prof. Hugo Bastos de Paula**
 
 ---
 
@@ -30,7 +33,11 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ## Introdução
 
-A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho. 
+É nítido que o mercado de trabalho tecnológico brasileiro tem se destacado e evoluído de forma exponencial nos últimos anos. Diversas empresas têm adotado métodos e políticas de contratação inclusivas, mas, apesar disso, ainda existem muitos desafios enfrentados por pessoas não brancas em processos seletivos e no avanço de suas carreiras profissionais.
+
+Nesse projeto, utilizamos dados que permitem entender quais fatores influenciam a contratação de profissionais negros, pardos e indígenas, e se existe uma diferença nos critérios de exigência, quando comparados aos candidatos brancos.
+
+O estudo é importante para compreender padrões de contratação dentro do mercado de trabalho tecnológico, e identificar possíveis desigualdades raciais existentes nesse meio. Entender tais padrões pode auxiliar tanto os candidatos a compreenderem o estado atual do mercado, bem como empresas a proporem melhorias mais abrangentes em seus processos seletivos, fomentando a diversidade nesse campo profissional.
 
 ###    Contextualização
 
