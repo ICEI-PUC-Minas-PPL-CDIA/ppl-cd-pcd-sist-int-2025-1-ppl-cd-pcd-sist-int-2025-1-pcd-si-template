@@ -83,9 +83,23 @@ O projeto fornece um panorama quantitativo e qualitativo sobre as disparidades r
 
 ###    Dicionário de dados
 
-Apresente uma descrição das bases de dados a serem utilizadas. 
-Dicionários de dados devem conter as bases de dados, os nomes dos atributos 
-com seu significado, seu tipo (inteiro, real, textual, categórico, etc).
+Base principal Kaggle-2023
+
+| Atribuição          | Tipo de Dado       | Descrição                                                                 |
+|---------------------|--------------------|---------------------------------------------------------------------------|
+| P1_b                | Categórico         | Gênero da pessoa (ex: masculino, feminino, não binário, etc.).             |
+| P1_c                | Categórico         | Cor/raça/etnia da pessoa (ex: branca, negra, parda, indígena, asiática, etc.). |
+| P1_e                | Booleano           | Indica se o entrevistado acredita que sua experiência profissional foi prejudicada (sim ou não). |
+| P1_e_2              | Booleano           | Indica se a experiência foi prejudicada devido à cor/raça/etnia (sim ou não). |
+| P1_f                | Categórico         | Aspectos prejudicados na experiência profissional (ex: oportunidades de promoção, networking, etc.). |
+| P1_l                | Ordinal            | Nível de ensino da pessoa (ex: Ensino Médio, Superior, Pós-graduação, etc.). |
+| P1_m                | Categórico         | Área de formação da pessoa (ex: Ciências da Computação, Engenharia, Administração, etc.). |
+| P2_a                | Categórico         | Situação atual de trabalho da pessoa (ex: empregado, desempregado, estagiário, etc.). |
+| P2_b                | Categórico         | Setor da empresa ou área de atuação da pessoa (ex: Tecnologia, Saúde, Educação, etc.). |
+| P2_g                | Ordinal            | Nível do cargo atual (ex: Pleno, Júnior, Sênior, etc.).                   |
+| P2_h                | Numérico (contínuo) | Faixa salarial anual ou mensal da pessoa (ex: R$ 3.000, R$ 5.000, etc.).   |
+| P2_i                | Numérico (contínuo) | Tempo de experiência na área de dados, em anos (ex: 2 anos, 5 anos, etc.). |
+| P2_j                | Numérico (contínuo) | Tempo de experiência na área de TI/engenharia de software antes de trabalhar na área de dados (ex: 3 anos, 6 anos, etc.). |
 
 Este projeto deve utilizar pelo menos duas fontes de dados. Uma fonte principal e 
 uma fonte para enriquecimentos dos dados principais.
