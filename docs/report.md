@@ -1,18 +1,22 @@
 # TITULO DO PROJETO
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Luiz Felipe Assis Cavalcante, luizf.a.cavalcante@gmail.com**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Arthur Viana Silva, email do aluno 2**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**João Vitor de Lima, jvlpaulino18@gmail.com**
+
+**Márcio Douglas Cassemiro Junior, marcio.cassemiro@sga.pucminas.br**
+
+**Gustavo Horta, email do aluno 5**
 
 ---
 
 Professores:
 
-** Prof. Nome do Prof 1 **
-** Prof. Nome do Prof 2 **
+** Prof. Hugo de Paula **
+** Prof. Sandro Jerônimo **
 
 ---
 
@@ -30,25 +34,24 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ## Introdução
 
-A introdução deve apresentar de dois a quatro parágrafos de contextualização do trabalho. 
+A escolha do regime de trabalho — remoto, híbrido ou presencial — tem se tornado um tema central nas discussões sobre a dinâmica do mercado de trabalho, especialmente após a pandemia de Covid-19. Com a aceleração da adoção do trabalho remoto, muitos profissionais passaram a reconsiderar suas preferências quanto à flexibilidade e à forma como suas atividades são realizadas. No setor de dados, onde a tecnologia e a produtividade estão fortemente interligadas, a adaptação a novos modelos de trabalho gerou tanto benefícios quanto desafios.
+
+Esse cenário levanta a questão sobre quais fatores determinam as escolhas dos profissionais de dados em relação ao regime de trabalho. A análise de aspectos como produtividade, tempo de deslocamento, saúde mental, flexibilidade e o impacto da interação social se torna essencial para entender as dinâmicas desse grupo específico. Compreender essas preferências pode não apenas ajudar a identificar as melhores práticas para aumentar a satisfação e a produtividade dos profissionais, mas também fornecer insights valiosos para empresas que buscam se adaptar às novas realidades do trabalho no pós-pandemia.
+
+Este trabalho, portanto, tem como objetivo explorar os principais fatores que influenciam a escolha dos profissionais de dados quanto ao regime de trabalho, oferecendo uma análise detalhada de como esses elementos afetam a decisão de adotar um modelo remoto, híbrido ou presencial.
+
 
 ###    Contextualização
 
-Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
+A pandemia de Covid-19, iniciada no final de 2019, desencadeou uma crise global sem precedentes, afetando diretamente a economia, a mobilidade e a organização do trabalho. Com a necessidade de medidas de isolamento social para conter a propagação do vírus, diversas empresas foram forçadas a adotar o regime remoto como alternativa para manter suas atividades. Esse movimento acelerou transformações que já vinham ocorrendo em algumas áreas, especialmente no setor de tecnologia, onde a digitalização e a conectividade permitiram uma rápida adaptação ao novo cenário.
+
+Durante esse período, diversos estudos indicaram um aumento na produtividade em setores que puderam operar de forma remota, além de melhorias na qualidade de vida dos trabalhadores, que passaram a evitar longos deslocamentos e a ter maior autonomia sobre sua rotina. No entanto, o trabalho remoto também trouxe desafios, como a dificuldade de separar a vida profissional da pessoal, o isolamento social e a necessidade de novas formas de comunicação e gestão dentro das empresas.
+
+Com o avanço da vacinação e a flexibilização das restrições sanitárias, muitas organizações começaram a retornar gradualmente ao modelo presencial, enquanto outras adotaram o regime híbrido, combinando trabalho remoto e presencial. No entanto, muitos profissionais, principalmente da área de tecnologia e dados, passaram a preferir a continuidade do home office, considerando fatores como flexibilidade, redução do tempo de deslocamento e impactos na produtividade. Nesse sentido, este estudo tem como objetivo analisar os fatores que influenciam a escolha dos profissionais de dados pelo regime de trabalho que melhor atende às suas necessidades.
 
 ###    Problema
 
-Nesse momento você deve apresentar o problema que seu agente pretende resolver. 
-No entanto, não é a hora de comentar sobre a aplicação.
-Descreva também o contexto em que essa aplicação será usada, se  houver: 
-empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, 
-pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve 
-sucintamente apresentar o cenário de problema da empresa. A empresa só deve ser citada 
-explicitamente se o aluno tiver autorização para tal.
+O presente estudo busca ajudar empresas a compreender as prioridades de seus funcionários em relação ao regime de trabalho, com o objetivo de identificar os fatores que influenciam a escolha entre os modelos remoto, híbrido ou presencial. A pesquisa visa responder à seguinte pergunta orientada por dados: quais aspectos são determinantes para os profissionais na decisão de adotar um desses regimes de trabalho? Através dessa análise, espera-se fornecer insights valiosos para que as empresas possam ajustar suas políticas de trabalho de forma a atender melhor às necessidades e preferências de seus colaboradores.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -56,18 +59,13 @@ explicitamente se o aluno tiver autorização para tal.
 
 ###    Objetivo geral
 
-Nesta seção deve-se escrever um pequeno parágrafo ou frase com o **objetivo geral** 
-do trabalho. O objetivo deve ser bem direto, específico e definido com verbos de 
-ação (elaborar, propor, avaliar, comparar etc.). No caso deste projeto, o objetivo é
-"desenvolver um sistema inteligente para ...". O seu objetivo geral deve ser uma
-pergunta orientada a dados. Ou seja, ela deve incluir de forma geral os dados em que
-os modelos irão se basear para atingir o objetivo.
+Desenvolver um sistema inteligente capaz de identificar padrões na escolha do regime de trabalho (remoto, híbrido ou presencial) e analisar os principais fatores que influenciam essa decisão. O sistema levará em consideração aspectos como mobilidade urbana, cargo, preferências dos profissionais e outras variáveis relevantes, gerando insights para empresas e formuladores de políticas trabalhistas.
 
 ####    Objetivos específicos
 
-Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde 
-você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar 
-no seu trabalho.
+- Identificar os principais fatores que influenciam a escolha dos profissionais de dados pelo regime de trabalho remoto, híbrido ou presencial.  
+- Analisar a variação das preferências por regime de trabalho de acordo com cargo, setor de atuação e localização.  
+- Comparar os impactos da interação social e do tempo de deslocamento na decisão pelo modelo de trabalho adotado.  
 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -75,12 +73,11 @@ no seu trabalho.
 
 ###    Justificativas
 
-Mostre também as **justificativas** para o  desenvolvimento do seu trabalho e, caso deseje, 
-destaque alguma contribuição do trabalho.
+A transformação do mercado de trabalho nos últimos anos, impulsionada principalmente pela pandemia de Covid-19, intensificou o debate sobre os modelos de trabalho remoto, híbrido e presencial. No setor de dados, onde a digitalização permite maior flexibilidade, empresas enfrentam o desafio de definir políticas que conciliem produtividade, satisfação dos profissionais e eficiência organizacional.
 
-A justific ativa deve descrever a importância ou a motivação para o desenvolvimento do 
-sistema inteligente escolhido. Indique as razões pelas quais você escolheu seus objetivos 
-específicos ou as razões para aprofundar em certos aspectos do software.
+Este estudo se justifica pela necessidade de fornecer uma base analítica que auxilie empresas na formulação de cargos e na escolha do regime de trabalho mais adequado, considerando o perfil dos profissionais que possuem ou desejam atrair. Ao identificar os fatores que influenciam essa decisão, a pesquisa permite que organizações alinhem suas estratégias às expectativas do mercado, reduzindo a rotatividade e aumentando o engajamento dos colaboradores.
+
+Além disso, compreender a relação entre fatores como cargo, setor de atuação, tempo de deslocamento e interação social pode ajudar empresas a ajustar suas políticas de trabalho para atender melhor às necessidades dos profissionais. Dessa forma, a pesquisa contribui para a construção de ambientes mais flexíveis e alinhados às novas dinâmicas do mercado pós-pandemia, beneficiando tanto as empresas quanto os trabalhadores.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
@@ -89,14 +86,7 @@ específicos ou as razões para aprofundar em certos aspectos do software.
 
 ##    Público alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. 
-O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários 
-na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos 
-usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, 
-diagramas de personas e mapa de stakeholders.
+O público-alvo desse sistema inclui empresas de diversos setores que desejam entender melhor as preferências de seus funcionários em relação ao regime de trabalho, auxiliando na formulação de políticas mais eficientes e atrativas. Além disso, gestores de Recursos Humanos podem utilizá-lo para otimizar modelos de trabalho e retenção de talentos. Pesquisadores e formuladores de políticas públicas também podem se beneficiar dos dados gerados para analisar impactos na mobilidade urbana, produtividade e qualidade de vida dos trabalhadores. Startups e consultorias especializadas em transformação digital e cultura organizacional podem usar os insights do sistema para oferecer soluções personalizadas a seus clientes.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
@@ -109,13 +99,35 @@ diagramas de personas e mapa de stakeholders.
 
 ###    Dicionário de dados
 
-Apresente uma descrição das bases de dados a serem utilizadas. 
-Dicionários de dados devem conter as bases de dados, os nomes dos atributos 
-com seu significado, seu tipo (inteiro, real, textual, categórico, etc).
+#### `The Impacts of Working Remotely and in an Office Survey`
+Essa base de dados contém atributos derivados de entrevistas com profissionais, nos quais eles compartilham percepções sobre produtividade, flexibilidade e outras experiências relacionadas ao trabalho remoto, híbrido e presencial. Esses dados servirão como referência para identificar padrões de comportamento, permitindo uma análise mais aprofundada das preferências e necessidades dos profissionais da área de dados.
 
-Este projeto deve utilizar pelo menos duas fontes de dados. Uma fonte principal e 
-uma fonte para enriquecimentos dos dados principais.
+Os atributos que serão utilizados para o estudo:
 
+- Have you ever experienced working from home? (Categórico)
+- Do you think that working from home increases your work productivity? (Categórico)
+- Do you think that working from home prevents you from going out? (Categórico)
+- Do you think that working from home gives you more flexibility? (Categórico)
+- Do you think that working from home saves you more time? (Categórico)
+- Which work type has the potential to cause you physical problems, such as the neck, back, and leg pain? (Categórico)
+- Which work type has the potential to cause mental disorders, such as stress, anxiety, and depression? (Categórico)
+- Do you think that working from home prevents you from getting in contact with people? (Categórico)
+- Which work type keeps you focused while working? (Categórico)
+- Which work type do you prefer the most? (Categórico)
+
+#### `State_of_data_BR_2023_Kaggle - df_survey_2023`
+Essa base de dados contém os dados relacionados aos profissionais de dados que serão utilizados como base para o atual estudo
+
+Os atributos utilizados no estudo serão:
+- ('P1_b ', 'Genero') (Categórico)
+- ('P1_d ', 'PCD') (Categórico)
+- ('P1_i ', 'Estado onde mora') (Categórico)
+- ('P2_f ', 'Cargo Atual') (Categórico)
+- ('P2_g ', 'Nivel') (Categórico)
+- ('P2_h ', 'Faixa salarial') (Categórico)
+- ('P2_o_4 ', 'Flexibilidade de trabalho remoto') (Categórico)
+- ('P2_r ', 'Atualmente qual a sua forma de trabalho?') (Categórico)
+- ('P2_s ', 'Qual a forma de trabalho ideal para você?') (Categórico)
 
 ###    Descrição de dados
 

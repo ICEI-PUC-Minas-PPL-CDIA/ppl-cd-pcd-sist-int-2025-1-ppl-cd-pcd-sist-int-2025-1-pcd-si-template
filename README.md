@@ -1,17 +1,18 @@
-# Nome do projeto
+# Regime de Trabalho na Área de Dados: Preferências Entre Remoto, Híbrido e Presencial
 
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
+O sistema inteligente será capaz de identificar padrões de comportamento na escolha do regime de trabalho (remoto, híbrido ou presencial) em diferentes áreas profissionais. Para isso, analisará fatores como produtividade, flexibilidade, tempo de deslocamento e cargo, gerando insights valiosos sobre as preferências dos trabalhadores e os impactos dessas escolhas no ambiente corporativo.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Luiz Felipe Assis Cavalcante
+* Arthur Viana Silva
+* João Vitor de Lima
+* Márcio Douglas Cassemiro Junior
+* Gustavo Horta
 
 ## Professor
 
-* Nome completo do professor (Prof. Hugo Bastos de Paula)
+* Prof. Hugo Bastos de Paula
 
 ## Instruções de utilização
 
