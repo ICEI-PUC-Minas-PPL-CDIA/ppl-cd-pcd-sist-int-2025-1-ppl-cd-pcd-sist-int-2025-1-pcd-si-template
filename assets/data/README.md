@@ -4,13 +4,5 @@ Este diretório mantém os artefatos relatório à modelagem de dados do projeto
 
 Os principais documentos a serem produzidos são:
 
-* `data_raw.csv`
-	* base principal original. pode ser em qualquer formato tabular
-
-* `other_data_raw.csv`
-	* outras bases utilizadas no processo de enriquecimento
-
-* `final_processed_data.csv`
-  * base final processada, limpa e selecionada
-	
-Demais artefatos que julgar pertinentes.
+* `State_of_data_BR_2023_Kaggle - df_survey_2023.csv`
+	* Base principal original, em sua primeira versão.
